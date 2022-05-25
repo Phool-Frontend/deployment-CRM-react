@@ -1,0 +1,9 @@
+{
+    "_id" : ObjectId("6287c473d5a6db8e23b8a823"),
+    "nombre" : "Phool A.",
+    "apellido" : "Herrera Condezo",
+    "empresa" : "mascota",
+    "email" : "dalton233d@gmail.com",
+    "telefono" : "962521637",
+    "__v" : 0
+}
